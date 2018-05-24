@@ -1,0 +1,25 @@
+{
+  "name": "appmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljqzq/appmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljqzq/appmap/issues"
+  },
+  "homepage": "https://github.com/michaeljqzq/appmap#readme",
+  "dependencies": {
+    "applicationinsights": "^1.0.2",
+    "request": "^2.87.0",
+    "uuid": "^3.2.1"
+  }
+}
